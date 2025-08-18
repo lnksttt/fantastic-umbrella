@@ -1,8 +1,8 @@
 # Site settings
 title:          "Links tötet"
 description:    "Die Gefahr linker Ideologien für die Gesellschaft und ihre Bürgerinnen und Bürger"
-baseurl:        "/psychic-pancake"
-url:            "https://lnksttt.github.io"
+baseurl:        "/"
+url:            "https://www.linkstoetet.de"
 
 # Google Analytics
 google_analytics: #UA—XXXXXXXX-X
